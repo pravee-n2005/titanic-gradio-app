@@ -1,5 +1,7 @@
 # 🚢 Titanic Survival Predictor - Machine Learning Web App
 
+![Project Banner](assets/titanic-ml-banner.png)
+
 Predict the survival of Titanic passengers using a trained ML model and a clean Gradio interface. Built with Python, deployed on Hugging Face Spaces.
 
 [![Hugging Face Spaces](https://img.shields.io/badge/Live-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/praveenadi2005/titanic-gradio-app)
@@ -12,7 +14,7 @@ Predict the survival of Titanic passengers using a trained ML model and a clean 
 ## 🌐 Live Demo
 
 👉 **Try the App Here:**  
-https://huggingface.co/spaces/praveenadi2005/titanic-gradio-app
+🔗 https://huggingface.co/spaces/praveenadi2005/titanic-gradio-app
 
 ---
 
@@ -26,6 +28,12 @@ This app uses demographic and ticketing data to predict whether a Titanic passen
 - Model training using Random Forest (and more)
 - Visualizations with Plotly (EDA)
 - Deployed on Hugging Face Spaces
+
+---
+
+## 🖼️ Gradio UI Preview
+
+![Gradio UI Screenshot](assets/gradio-ui-screenshot.png)
 
 ---
 
